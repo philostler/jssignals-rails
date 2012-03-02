@@ -22,6 +22,7 @@ Gem::Specification.new do |s|
             Dir["LICENSE"] +
             Dir["Rakefile"] +
             Dir["README.md"] +
+            Dir["**/*.js"] +
             Dir["**/*.rb"]
   s.require_paths = ["lib"]
 end
