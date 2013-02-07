@@ -1,6 +1,6 @@
 module Jssignals
   module Rails
-    VERSION = "1.2.0"
-    JSSIGNALS_VERSION = "0.9.0";
+    VERSION = "1.3.0"
+    JSSIGNALS_VERSION = "1.0.0";
   end
 end
