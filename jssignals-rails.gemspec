@@ -21,7 +21,6 @@ Gem::Specification.new do |s|
             Dir["Gemfile"] +
             Dir["jssignals-rails.gemspec"] +
             Dir["LICENSE"] +
-            Dir["Rakefile"] +
             Dir["README.md"] +
             Dir["**/*.js"] +
             Dir["**/*.rb"]
